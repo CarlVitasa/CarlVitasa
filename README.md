@@ -4,6 +4,8 @@ Senior VR Developer at [Moth + Flame](https://www.mothandflamevr.com/)
 
 ## Tech I Enjoy 🧰 
 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="text-decoration:none">test link</a>
+
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="text-decoration:none">
         <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/C_Sharp_Logo.png?raw=true" width="64" height="64">
