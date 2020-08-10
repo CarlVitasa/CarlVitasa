@@ -13,4 +13,6 @@ Senior VR Developer at [Moth + Flame](https://www.mothandflamevr.com/)
         <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Unity_Logo.png?raw=true" width="64" height="64"></a>
     <a href="https://code.visualstudio.com/" style="text-decoration:none">
         <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Visual_Studio_Code_Logo.png?raw=true" width="64" height="64"></a>
+    <a href="https://code.visualstudio.com/" style="text-decoration:none">
+        <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Obsidian_Logo.png?raw=true" width="64" height="64"></a>
 </p>
