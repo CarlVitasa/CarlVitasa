@@ -1,7 +1,5 @@
 ## Hi, I'm Carl Vitasa 👋 
 
-Senior VR Developer at [Moth + Flame](https://www.mothandflamevr.com/)
-
 ## Tech I Enjoy 🧰 
 
 <p align="left">
