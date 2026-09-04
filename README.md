@@ -7,7 +7,8 @@
     <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/C_Sharp_Logo.png?raw=true" alt="C#" width="32" height="32"></a>
   <a href="https://odin-lang.org/">
     <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Odin_Logo.png?raw=true" alt="Odin" width="64" height="32"></a>
-  <a><img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Divider.png?raw=true" alt="" width="10" height="32"></a>
+  <a href="#">
+    <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Divider.png?raw=true" alt="" width="10" height="32"></a>
   <a href="https://unity.com/">
     <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Unity_Logo.png?raw=true" alt="Unity" width="32" height="32"></a>
   <a href="https://p5js.org/">
@@ -18,7 +19,8 @@
     <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Raylib_Logo.png?raw=true" alt="raylib" width="32" height="32"></a>
   <a href="https://www.lexaloffle.com/pico-8.php">
     <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/pico8_Logo.png?raw=true" alt="PICO-8" width="32" height="32"></a>
-  <a><img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Divider.png?raw=true" alt="" width="10" height="32"></a>
+  <a href="#">
+    <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Divider.png?raw=true" alt="" width="10" height="32"></a>
   <a href="https://code.visualstudio.com/">
     <img src="https://github.com/CarlVitasa/CarlVitasa/blob/master/images/Visual_Studio_Code_Logo.png?raw=true" alt="VS Code" width="32" height="32"></a>
   <a href="https://www.jetbrains.com/rider/">
